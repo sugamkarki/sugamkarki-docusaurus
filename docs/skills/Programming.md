@@ -3,7 +3,7 @@ sidebar_label: 'Programming!'
 sidebar_position: 1
 ---
 
-**Contains the list of all programming languages and frameworks that I am proficient with**
+**Contains the list of all programming languages and frameworks that I am proficient with (give or take)**
 
 ### Programming Languages
 
@@ -37,3 +37,6 @@ sidebar_position: 1
 - ```Flutter```
 - ```Dad Jokes```
 
+:::tip
+
+Subject to Change!
