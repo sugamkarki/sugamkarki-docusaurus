@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "SugamKarki",
   tagline: "An intro guide into Sugam Karki 😀",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://sugamkarki-docausaurus.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
